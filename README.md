@@ -13,7 +13,7 @@ All encoders of these models are based on pretrained BERT.
  <img src="/img/model-byolse.png" width="80%">
 
  - DirectBYOLSE: combination of DirectCSE and BYOLSE
- <img src="/img/model-directbyolse.png" width="50%">
+ <img src="/img/model-directbyolse.png" width="60%">
 
 ## Requirement
 - PyTorch 1.9
